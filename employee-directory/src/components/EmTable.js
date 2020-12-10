@@ -31,14 +31,12 @@ export default function EmTable(props) {
         </TableHead>
         {/* <TableBody>
           {rows.map((row) => (
-            <TableRow key={row.name}>
-              <TableCell component="th" scope="row">
-                {row.name}
-              </TableCell>
-              <TableCell align="right">{row.calories}</TableCell>
-              <TableCell align="right">{row.fat}</TableCell>
-              <TableCell align="right">{row.carbs}</TableCell>
-              <TableCell align="right">{row.protein}</TableCell>
+            <TableRow key={props.id}>
+              <TableCell align="right"><img className={classes.avatar} src={props.image}></img></TableCell>
+              <TableCell align="right">{props.name}</TableCell>
+              <TableCell align="right">{props.phone}</TableCell>
+              <TableCell align="right">{props.email}</TableCell>
+              <TableCell align="right">{props.dob}</TableCell>
             </TableRow>
           ))}
         </TableBody> */}
