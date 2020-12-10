@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "image": "https://pbs.twimg.com/profile_images/578900195812900864/r1t12Hyb.jpeg",
+      "name":
+        "Rachel Green",
+      "phone": "555-651-8834",
+      "email": "rgreen@email.com",
+      "dob": "5/5/1969"
+    },
+    {
+      "id": 2,
+      "image": "https://pbs.twimg.com/profile_images/1081286341839781888/TAHkKvfg_400x400.jpg",
+      "name":
+        "Ross Geller",
+      "phone": "555-857-2958",
+      "email": "proffesordrrossgellar@email.com",
+      "dob": "11/18/1967"
+    },
+    {
+      "id": 3,
+      "image": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/14/37/ustv-friends-monica-courteney-cox.jpg?crop=0.896xw:0.717xh;0.0204xw,0.00952xh&resize=480:*",
+      "name":
+        "Monica Geller",
+      "phone": "555-640-3285",
+      "email": "chefgeller@email.com",
+      "dob": "4/22/1969"
+    },
+    {
+      "id": 1,
+      "image": "https://www.betrendsetter.com/wp-content/uploads/2017/03/jennifer-aniston-chin-implant.jpg",
+      "name":
+        "Rachel Green",
+      "phone": "555-651-8834",
+      "email": "rgreen@email.com",
+      "dob": "5/5/1969"
+    },
+    {
+      "id": 1,
+      "image": "https://www.betrendsetter.com/wp-content/uploads/2017/03/jennifer-aniston-chin-implant.jpg",
+      "name":
+        "Rachel Green",
+      "phone": "555-651-8834",
+      "email": "rgreen@email.com",
+      "dob": "5/5/1969"
+    },
+    {
+      "id": 1,
+      "image": "https://www.betrendsetter.com/wp-content/uploads/2017/03/jennifer-aniston-chin-implant.jpg",
+      "name":
+        "Rachel Green",
+      "phone": "555-651-8834",
+      "email": "rgreen@email.com",
+      "dob": "5/5/1969"
+    },
+    {
+      "id": 1,
+      "image": "https://www.betrendsetter.com/wp-content/uploads/2017/03/jennifer-aniston-chin-implant.jpg",
+      "name":
+        "Rachel Green",
+      "phone": "555-651-8834",
+      "email": "rgreen@email.com",
+      "dob": "5/5/1969"
+    },
+    {
+      "id": 1,
+      "image": "https://www.betrendsetter.com/wp-content/uploads/2017/03/jennifer-aniston-chin-implant.jpg",
+      "name":
+        "Rachel Green",
+      "phone": "555-651-8834",
+      "email": "rgreen@email.com",
+      "dob": "5/5/1969"
+    }
+  ]
