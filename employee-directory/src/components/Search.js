@@ -12,17 +12,15 @@ const useStyles = makeStyles({
   },
 });
 
-export default function Search() {
+export default function Search(props) {
     const classes = useStyles();
+
     return (
         <div className={classes.searchArea}>
             <form style={{margin: "20px"}}>
-                <TextField id="standard-basic" label="Search Employees" />
                 <br></br>
-                <br></br>
-                <Button size="small" variant="outlined" style={{marginBottom: "0"}}>Search</Button>
+                <Button size="small" variant="outlined" style={{marginBottom: "0"}} onClick={props.handleSort}>Sort Alphabetically</Button>
             </form>
         </div>
     )
 }
-
