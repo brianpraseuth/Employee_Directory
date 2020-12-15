@@ -12,11 +12,16 @@ const useStyles = makeStyles({
     avatar: {
       height: "100px",
     },
+    table: {
+        minWidth: 650,
+      },
   });
 
 export default function EmCell(props) {
     const classes = useStyles();
     return (
+        <TableContainer component={Paper}>
+        <Table className={classes.table}>
         <TableBody>
             <TableRow key={props.id}>
               <TableCell align="right"><img className={classes.avatar} src={props.image}></img></TableCell>
@@ -26,5 +31,7 @@ export default function EmCell(props) {
               <TableCell align="right">{props.dob}</TableCell>
             </TableRow>
             </TableBody>
+            </Table>
+            </TableContainer>
     )
 }

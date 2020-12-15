@@ -12,11 +12,22 @@ state = {
   friends
 };
 
+
+sortFriends = () => {
+  const sorted = this.state.friends.sort((a, b) => a.name.localeCompare(b.name));
+  this.setState({friends: sorted})
+}
+
+
 render () {
   return (
     <>
     <Header />
-    <Search />
+    <Search 
+      handleSort = {
+        this.sortFriends
+      }
+    />
     <EmTable />
     {friends.map(friend => (
       <EmCell

@@ -22,24 +22,13 @@ export default function EmTable(props) {
       <Table className={classes.table} aria-label="simple table">
         <TableHead>
           <TableRow>
-            <TableCell>Image</TableCell>
+            <TableCell align="right">Image</TableCell>
             <TableCell align="right">Name</TableCell>
             <TableCell align="right">Phone</TableCell>
             <TableCell align="right">Email</TableCell>
             <TableCell align="right">DOB</TableCell>
           </TableRow>
         </TableHead>
-        {/* <TableBody>
-          {rows.map((row) => (
-            <TableRow key={props.id}>
-              <TableCell align="right"><img className={classes.avatar} src={props.image}></img></TableCell>
-              <TableCell align="right">{props.name}</TableCell>
-              <TableCell align="right">{props.phone}</TableCell>
-              <TableCell align="right">{props.email}</TableCell>
-              <TableCell align="right">{props.dob}</TableCell>
-            </TableRow>
-          ))}
-        </TableBody> */}
       </Table>
     </TableContainer>
   );

@@ -27,48 +27,30 @@
       "dob": "4/22/1969"
     },
     {
-      "id": 1,
-      "image": "https://www.betrendsetter.com/wp-content/uploads/2017/03/jennifer-aniston-chin-implant.jpg",
+      "id": 4,
+      "image": "https://vignette4.wikia.nocookie.net/friends/images/c/cc/Square_Chandler.jpg/revision/latest?cb=20111216200026",
       "name":
-        "Rachel Green",
-      "phone": "555-651-8834",
-      "email": "rgreen@email.com",
-      "dob": "5/5/1969"
+        "Chandler Bing",
+      "phone": "555-861-9835",
+      "email": "myemailMYEMAIL@email.com",
+      "dob": "4/8/1968"
     },
     {
-      "id": 1,
-      "image": "https://www.betrendsetter.com/wp-content/uploads/2017/03/jennifer-aniston-chin-implant.jpg",
+      "id": 5,
+      "image": "https://i.pinimg.com/originals/17/e7/b2/17e7b2ab9b359c752173d74d5501b8ab.jpg",
       "name":
-        "Rachel Green",
-      "phone": "555-651-8834",
-      "email": "rgreen@email.com",
-      "dob": "5/5/1969"
+        "Phoebe Buffay",
+      "phone": "555-549-3351",
+      "email": "pasinphoebe@email.com",
+      "dob": "2/16/1967"
     },
     {
-      "id": 1,
-      "image": "https://www.betrendsetter.com/wp-content/uploads/2017/03/jennifer-aniston-chin-implant.jpg",
+      "id": 6,
+      "image": "https://4.bp.blogspot.com/-sVRCR-TGE3Q/T-3PfOL3FKI/AAAAAAAAAKM/c5wVXJFjReI/s1600/matt+leblanc.jpg",
       "name":
-        "Rachel Green",
-      "phone": "555-651-8834",
+        "Joey Tribbiani",
+      "phone": "555-510-3246",
       "email": "rgreen@email.com",
-      "dob": "5/5/1969"
-    },
-    {
-      "id": 1,
-      "image": "https://www.betrendsetter.com/wp-content/uploads/2017/03/jennifer-aniston-chin-implant.jpg",
-      "name":
-        "Rachel Green",
-      "phone": "555-651-8834",
-      "email": "rgreen@email.com",
-      "dob": "5/5/1969"
-    },
-    {
-      "id": 1,
-      "image": "https://www.betrendsetter.com/wp-content/uploads/2017/03/jennifer-aniston-chin-implant.jpg",
-      "name":
-        "Rachel Green",
-      "phone": "555-651-8834",
-      "email": "rgreen@email.com",
-      "dob": "5/5/1969"
+      "dob": "1/9/1968"
     }
   ]
